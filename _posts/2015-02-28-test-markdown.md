@@ -1,73 +1,18 @@
 ---
 layout: post
-title: Test markdown
-subtitle: Each post also has a subtitle
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [test]
+title: Good Design: Williams Course Catalog!
+image: /img/catalog_home.PNG
 ---
 
-You can write regular [markdown](http://markdowntutorial.com/) here and Jekyll will automatically convert it to a nice webpage.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](http://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+Prior to recent modifications, the Williams College Course catalog used to be slightly confusing and difficult to navigate, as well as generally not aesthetically pleasing. The recent renovations to the course catalog show, I believe, elements of good design. The Home Screen offers two primary links: “Current Courses & Programs” and “2018-19 PDF”. This immediately gives you the option of skipping to the PDF version of the catalog or proceeding on the online version. As these are the primary links, they are found in light blue boxes to distinguish them from the rest of the links on the page, which are general information links. The text of all of the links is also in blue compared to the black text, which is a standard practice of distinguishing a link from text. 
 
-**Here is some bold text**
+If you click on the “Current Courses & Programs” link it takes you to the main page, which is divided into a grid-like structure where each department has its own “square”. The layout of this page is easy to understand as it is immediately obvious that departments are listed in alphabetical order from left to right. The grid-like structure requires less scrolling to find departments located toward the end of the alphabet and is therefore space-efficient. Furthermore, unlike a list, the grid structure provides space for departments with multiple distinct majors to have individual links for those majors within their “square”. Overall, this layout is aesthetically pleasing and easy to navigate. At the top of the page, there are also updates about class locations and another link to the catalog pdf, so one does not have to search extensively for that information.
 
-## Here is a secondary heading
+If we click on one of the Majors (Computer Science for example) we are taken to an introductory page with information about the computer science department and a link to the department website. This is helpful, because much of the core information about the subject is immediately available and centralized, and any additional information is easy to access through the website link. On the sidebar, there is a link for a “Department/Program Curriculum PDF” which takes you directly to a comprehensive PDF version of the course catalog specifically for Computer Science. This is helpful if you know what subject you are interested in and want to avoid scrolling through the entire course catalog pdf to find computer science courses. There are also links for Fall, Winter, Spring, and Not Offered, which divides the courses offered by semester. This is an intuitive organization system for most students, who think of classes in the context of the Williams calendar.
 
-Here's a useless table:
+Clicking one of those links takes you to the list of Computer Science courses in the Fall. Again, the grid structure works effectively here to display important information about each course being offered, including time, location, class #, and division requirements. The division requirements are now expressed with a symbol in a colored box. The use of thes standard symbols across the board makes it easy to compare classes with a single glance. \
 
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
+Finally, clicking one of the class links takes you to the class information page which clearly divides information about the course into individual labeled sections. The top of the page also has a menu bar which show all the pages you went through to get to the current one. This provides an easy means of navigating back to a previous page without having to click the back button on your browser.
 
+Overall, the course catalog is clearly organized and aesthetically simple, which in this case is good. There is no flash or pizazz. Instead the website uses a simple, clean, and easy to understand layout and provides sufficient signifiers to help even a new student navigate to the information they are interested in.
 
-How about a yummy crepe?
-
-![Crepe](http://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
-
-Here's a code chunk:
-
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
-
-And here is the same code with syntax highlighting:
-
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
-
-And here is the same code yet again but with line numbers:
-
-{% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
-
-## Boxes
-You can add notification, warning and error boxes like this:
-
-### Notification
-
-{: .box-note}
-**Note:** This is a notification box.
-
-### Warning
-
-{: .box-warning}
-**Warning:** This is a warning box.
-
-### Error
-
-{: .box-error}
-**Error:** This is an error box.
