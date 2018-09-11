@@ -26,3 +26,6 @@ Again, even on the personalization menu, the meaning of the different options is
 ![PS updated](/img/peoplesoft_updated.PNG)
 
 ALthough this is a slight improvement, the overall layout is still unappealing and there is far too much compartmentalization and nesting of folders for this to be an effective website. What angers me most about the Peoplesoft update is that in updating the website, the designers simply added an attractive facade infront of the existing poorly designed website. This added facade did not make it easier to find information on peoplesoft, but instead just added another step that the user has to take (another button they have to push) on top of the existing steps they already had to take. This design is "bad" because it requires an unnecessary amount of work on the part of the student, and thus is cumbersome and tedious to use. It is additinally frustrating that from a programmer's perspective, it seems like it would be a relatively painless task to make the peoplesoft website more user-friendly, yet no steps have been taken to improve the design.
+
+Screenshots from: https://sarah.williams.edu/psp/cs92prd/?cmd=login
+Subtitle Idea Credit: William Downs
