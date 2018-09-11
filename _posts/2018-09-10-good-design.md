@@ -26,6 +26,6 @@ Finally, clicking one of the class links takes you to the class information page
 
 Overall, the course catalog is clearly organized and aesthetically simple, which in this case is good. There is no flash or pizazz. Instead the website uses a simple, clean, and easy to understand layout and provides sufficient signifiers to help even a new student navigate to the information they are interested in.
 
-
+**Screenshots from: https://catalog.williams.edu/**
 
 
