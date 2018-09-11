@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Good Design
-subtitle: Williams College COurse Catalog
+subtitle: Williams College Course Catalog
 ---
 Prior to recent modifications, the Williams College Course catalog used to be slightly confusing and difficult to navigate, as well as generally not aesthetically pleasing. The recent renovations to the course catalog show, I believe, elements of good design. The Home Screen offers two primary links: “Current Courses & Programs” and “2018-19 PDF”. This immediately gives you the option of skipping to the PDF version of the catalog or proceeding on the online version. As these are the primary links, they are found in light blue boxes to distinguish them from the rest of the links on the page, which are general information links. The text of all of the links is also in blue compared to the black text, which is a standard practice of distinguishing a link from text. 
 
