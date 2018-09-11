@@ -4,7 +4,7 @@ title: About Me
 subtitle: Who am I? Where am I? Why am I?
 ---
 
-My name is Anjali Pai. YOu killed my father. Prepare to die.
+My name is Anjali Pai. You killed my father. Prepare to die.
 
 
 ### my history
