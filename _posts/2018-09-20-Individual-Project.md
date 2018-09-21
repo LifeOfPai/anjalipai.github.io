@@ -10,7 +10,7 @@ Not everyone “understands” art. Some people have difficulty spending even a 
 
 
 ![Canvas](/img/blank_art.jpg)
-[Source!](https://www.huffingtonpost.com/2014/10/22/how-to-act-at-an-art-muse_n_6023610.html)
+[Source](https://www.huffingtonpost.com/2014/10/22/how-to-act-at-an-art-muse_n_6023610.html)
 
 
 
@@ -21,7 +21,7 @@ I know this because I am one of those people. I have always had an appreciation 
 The real problem is not that such art amateurs exist, but that art museums do not cater to the art amateurs. When a museum has audio tours they often include in-depth historical background information or quotes from curators. These are helpful in providing some context to art but they too are geared toward people with an intellectual curiosity about art. In WCMA for example, the small plaques next to each work of art display the name of the painter, the rough time period of painting, and information about the medium: information that is interesting to an artist or an art student, but does nothing to help and “art amateur” better appreciate the art. But basic information is the only thing that most art museums have. They cannot teach people how to appreciate art, they can only tell people what questions to think about or what context to consider.
 
 # Further Evidence #
-I'm not making this up. in a HuffPost article called [_How You Expect To Feel at An Art Museum vs How You Really Feel_!](https://www.huffingtonpost.com/2014/10/22/how-to-act-at-an-art-muse_n_6023610.html), Katherine Brooks describes the phenomenon of feeling lost in an art museum even if you thing art is beautiful and enjoy a certain amount of art in your life. 
+I'm not making this up. in a HuffPost article called [_How You Expect To Feel at An Art Museum vs How You Really Feel_](https://www.huffingtonpost.com/2014/10/22/how-to-act-at-an-art-muse_n_6023610.html), Katherine Brooks describes the phenomenon of feeling lost in an art museum even if you thing art is beautiful and enjoy a certain amount of art in your life. 
 
 
 
