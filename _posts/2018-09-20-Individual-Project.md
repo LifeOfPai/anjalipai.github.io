@@ -55,19 +55,24 @@ Since it is difficult to understand how to help art amateurs appreciate art, we 
 # _Idea_: Art As a Social Experience
 Another more interesting case is in social settings. For an art amateur, walking around an art museum on their own can be an isolating and frustrating experience. You don’t understand the art, you have questions, you feel like everyone around you is more of an art connoisseur than you are. You could ask other people about their thoughts on the art, but initiating that kind of interaction with strangers can be stressful and anxiety inducing. What most people really want in that kind of situation is to be surrounded by people like them: not art students or museum experts or art museum frequenters, but other “art amateurs”. Imagine a world where we could connect all the art amateurs, or provide them with a way to hear the questions or thoughts of other people with the same layman’s view as them. Simple questions like: 
 
-"_Why is there an angel in this picture?"
-"Why this person's face so ugly?"
-"How do two boxes painted on a canvas represent a 'boy with a knapsack'?"._
+"_Why is there an angel in this picture?"_
+
+_"Why this person's face so ugly?"_
+
+_"How do two boxes painted on a canvas represent a 'boy with a knapsack'?"._
 
 Basic observations like: 
 
-"_This painting seems silly"
-"The colors don’t work together." _
+_"This painting seems silly"_
+
+_"The colors don’t work together."_
 
 And, possibly more importantly, stories: 
 
 _“This painting reminds me of the time when…”_
-_“The scene looks like...”_; 
+
+_“The scene looks like...”_
+
 _“This painting makes me feel…”_ 
 
 The goal is to help the art amateurs feel less alone in an environment they feel out of place in, and one of the best ways to do this is to create a community that they can carry in their pocket and access when they most need it. With technology, we can create that community. It's time to bring those people in the museum shadows to the forefront. It's time to make art museums for the art amateurs.
