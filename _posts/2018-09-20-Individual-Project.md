@@ -10,7 +10,7 @@ Not everyone “understands” art. Some people have difficulty spending even a 
 
 
 ![Canvas](/img/blank_art.jpg)
-![Source](https://www.huffingtonpost.com/2014/10/22/how-to-act-at-an-art-muse_n_6023610.html)
+[Source!](https://www.huffingtonpost.com/2014/10/22/how-to-act-at-an-art-muse_n_6023610.html)
 
 
 
