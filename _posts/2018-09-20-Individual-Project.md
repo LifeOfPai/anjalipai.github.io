@@ -7,7 +7,7 @@ subtitle: Art Appreciation for the Art Amateur
 ## Meet the Art Amateurs
 Not everyone “understands” art. Some people have difficulty spending even a few minutes in an art museum, nevertheless spending multiple hours. Certain people can stare at a work of art and ask a million questions: Who was the artist? Why did they paint this way? What does this painting mean? Other people feel like they may as well be staring at a blank canvas. 
 
-![Canvas](/img/blank_art_canvas.jpg)
+![Canvas](/img/blank_art.jpg)
 
 I know this because I am one of those people. I have always had an appreciation for art but I have always struggled to walk around an art museum and examine art in the way that an art major or even an art enthusiast would. It is highly probably that I am not the only “art amateur” in this world. You see this all the time in art museums: certain people spend hours walking around, examining each painting; others wander the rooms more aimlessly, eventually growing tired or bored and finding themselves searching for the nearest bench or cafe. 
 
