@@ -4,7 +4,7 @@ title: The Real Voices of WCMA
 subtitle: Art Appreciation for the Art Amateur
 ---
 
-                                     # Meet the Art Amateurs
+# Meet the Art Amateurs...
 Not everyone “understands” art. Some people have difficulty spending even a few minutes in an art museum, nevertheless spending multiple hours. Certain people can stare at a work of art and ask a million questions: Who was the artist? Why did they paint this way? What does this painting mean? Other people feel like they may as well be staring at a blank canvas. 
 
 
@@ -28,7 +28,11 @@ and:
 
 > "Museums are built to intimidate you. They are abnormally quiet, palatial and pristine, filled with guards and attendants who will only speak to you if you mess up. “Don’t touch the art,” is not a statement reserved for children. You might expect to blend in with an art world version of Xavier’s School for Gifted Youngsters, but you’ll probably feel a touch out of place."
 
-These are not exagerrations. Art museums can be overwhelming, especially for people who may not have the natural "art instinct".
+These are not exagerrations. Art museums can be overwhelming, especially for people who may not have the natural "art instinct". While this article does a good job of conveying the feeling of disoreintation that can come with walking around an art museum, articles such as these are part of a broader problem. Art experts or even art enthusiasts constantly try to "teach" art amateurs how to appreciate art. But constantly being told how to view art can make someone who already feels out of place, feel even less comfortable, **especially when they simply don't see art the same way as other people"
+
+## Where are the art amateurs?
+
+They're all around you. Although this would require further investigation, I have no doubt that Williams College Campus is full of art amateurs. The people who rarely step foot in WCMA or the Clark unless they absolutely need to. Those who enter MassMoca and find themselves baffled by the shovel hanging from the ceiling. They exist, but not in art spaces. And it should be our goal to **make art space their spaces too**.
 
 
 
