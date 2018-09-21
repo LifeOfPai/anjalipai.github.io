@@ -35,13 +35,13 @@ These are not exagerrations. Art museums can be overwhelming, especially for peo
 **_Angels on Canvas_ by Raphael** 
 
 ![Cherubs](/img/raphael_cherubs.jpg)  
-_Why does everyone insist on painting Cherubs?_
+_Why does everyone insist on painting Cherubs?_ [Source](http://www.beliefnet.com/inspiration/angels/2008/09/angel-paintings.aspx)
 
 
 **_Boy With a Knapsack_ by Kazimir Malevich**
 
 ![boy](/img/boy.jpg)
-_I have yet to understand how this is a boy with a knapsack???_
+_I have yet to understand how this is a boy with a knapsack???_ [Source](http://www.galleryintell.com/artex/boy-knapsack-color-masses-fourth-dimension-kazimir-malevich/)
 ## Where are the art amateurs?
 
 They're all around you. Although this would require further investigation, I have no doubt that Williams College Campus is full of art amateurs. The people who rarely step foot in WCMA or the Clark unless they absolutely need to. Those who enter MassMoca and find themselves baffled by the shovel hanging from the ceiling. They exist, but not in art spaces. And it should be our goal to **make art space their spaces too**.
