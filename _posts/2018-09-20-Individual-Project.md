@@ -22,11 +22,13 @@ The real problem is not that such art amateurs exist, but that art museums do no
 
 ## Further Evidence
 I'm not making this up. in a HuffPost article called [_How You Expect To Feel at An Art Museum vs How You Really Feel_](https://www.huffingtonpost.com/2014/10/22/how-to-act-at-an-art-muse_n_6023610.html), Katherine Brooks describes the phenomenon of feeling lost in an art museum even if you thing art is beautiful and enjoy a certain amount of art in your life. Here are some of the arguments Brooks makes:
-> "Lots of people feel intimidated by today’s art in particular, with its incomprehensible “masterpieces” and slightly disturbing figureheads. We want to understand it, be accepted into it, but even the act of visiting a museum can be less than ideal. With formidable columns and elaborate floor plans, entering a modern art haven can just as easily take the form of a dreamy afternoon jaunt or a nightmarish descent into the netherworld." <
+> "Lots of people feel intimidated by today’s art in particular, with its incomprehensible “masterpieces” and slightly disturbing figureheads. We want to understand it, be accepted into it, but even the act of visiting a museum can be less than ideal. With formidable columns and elaborate floor plans, entering a modern art haven can just as easily take the form of a dreamy afternoon jaunt or a nightmarish descent into the netherworld."
 
 and:
 
-> "Museums are built to intimidate you. They are abnormally quiet, palatial and pristine, filled with guards and attendants who will only speak to you if you mess up. “Don’t touch the art,” is not a statement reserved for children. You might expect to blend in with an art world version of Xavier’s School for Gifted Youngsters, but you’ll probably feel a touch out of place." <
+> "Museums are built to intimidate you. They are abnormally quiet, palatial and pristine, filled with guards and attendants who will only speak to you if you mess up. “Don’t touch the art,” is not a statement reserved for children. You might expect to blend in with an art world version of Xavier’s School for Gifted Youngsters, but you’ll probably feel a touch out of place."
+
+These are not exagerrations. Art museums can be overwhelming, especially for people who may not have the natural "art instinct".
 
 
 
