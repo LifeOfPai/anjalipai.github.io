@@ -33,11 +33,11 @@ and:
 These are not exagerrations. Art museums can be overwhelming, especially for people who may not have the natural "art instinct". While this article does a good job of conveying the feeling of disoreintation that can come with walking around an art museum, articles such as these are part of a broader problem. Art experts or even art enthusiasts constantly try to "teach" art amateurs how to appreciate art. But constantly being told how to view art can make someone who already feels out of place, feel even less comfortable, **especially when they simply don't see art the same way as other people"**
 
 **_Angels on Canvas_ by Raphael** 
-[Cherubs](/img/raphael_cherubs.jpg)  
+![Cherubs](/img/raphael_cherubs.jpg)  
 _Why does everyone insist on painting Cherubs?_
 
 **_Boy With a Knapsack_ by Kazimir Malevich**
-[boy](/img/boy_with_knapsack.jpg)
+![boy](/img/boy_with_knapsack.jpg)
 _I have yet to understand how this is a boy with a knapsack???_
 ## Where are the art amateurs?
 
