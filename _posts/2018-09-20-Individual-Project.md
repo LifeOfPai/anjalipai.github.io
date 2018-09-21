@@ -10,7 +10,7 @@ Not everyone “understands” art. Some people have difficulty spending even a 
 
 
 ![Canvas](/img/blank_art.jpg)
-[Source](https://www.huffingtonpost.com/2014/10/22/how-to-act-at-an-art-muse_n_6023610.html)
+[(1)](https://www.huffingtonpost.com/2014/10/22/how-to-act-at-an-art-muse_n_6023610.html)
 
 
 
@@ -36,16 +36,16 @@ These are not exagerrations. Art museums can be overwhelming, especially for peo
 
 **_Angels on Canvas_ by Raphael** 
 
-![Cherubs](/img/raphael_cherubs.jpg)  
+![Cherubs](/img/raphael_cherubs.jpg) 
 
-_My Reaction: Why does everyone insist on painting Cherubs?_ [Source](http://www.beliefnet.com/inspiration/angels/2008/09/angel-paintings.aspx)
+_My Reaction: Why does everyone insist on painting Cherubs?_ [(2)](http://www.beliefnet.com/inspiration/angels/2008/09/angel-paintings.aspx)
 
 
 **_Boy With a Knapsack_ by Kazimir Malevich**
 
 ![boy](/img/boy_knapsack.jpeg)
 
-_My Reaction: I have yet to understand how this is a boy with a knapsack???_ [Source](https://theartstack.com/artist/kazimir-malevich-kazimir-sievierinovich-malievich/painterly-realism-of-a-boy-with-a-knapsack-masses-in-the-fourth-dimension)
+_My Reaction: I have yet to understand how this is a boy with a knapsack???_ [(3)](https://theartstack.com/artist/kazimir-malevich-kazimir-sievierinovich-malievich/painterly-realism-of-a-boy-with-a-knapsack-masses-in-the-fourth-dimension)
 
 
 ## Where are the art amateurs?
@@ -56,7 +56,7 @@ They're all around you. Although this would require further investigation, I hav
 Since it is difficult to understand how to help art amateurs appreciate art, we can instead consider the following question: **In what scenario do art amateurs actually enjoy an art museum?** One answer is when there’s a particular exhibit of interest: something they’ve encountered previously in their life, or heard of in other areas of their life that they are more interested in. An English major may have interest in seeing an exhibit based off of The Picture of Dorian Gray or Pride and Prejudice; a math major may be intrigued by an exhibit of DaVinci’s sketches. It is difficult, however for a museum to curate their exhibitions as to appeal to all of the potential art amateurs out there.
 
 # _Idea_: Art As a Social Experience
-Another more interesting case is in social settings. For an art amateur, walking around an art museum on their own can be an isolating and frustrating experience. You don’t understand the art, you have questions, you feel like everyone around you is more of an art connoisseur than you are. You could ask other people about their thoughts on the art, but initiating that kind of interaction with strangers can be stressful and anxiety inducing. What most people really want in that kind of situation is to be surrounded by people like them: not art students or museum experts or art museum frequenters, but other “art amateurs”. Imagine a world where we could connect all the art amateurs, or provide them with a way to hear the questions or thoughts of other people with the same layman’s view as them. 
+Another more interesting case is in social settings. For an art amateur, walking around an art museum on their own can be an isolating and frustrating experience. You don’t understand the art, you have questions, you feel like everyone around you is more of an art connoisseur than you are. You could ask other people about their thoughts on the art, but initiating that kind of interaction with strangers can be stressful and anxiety inducing. What most people really want in that kind of situation is to be surrounded by people like them: not art students or museum experts or art museum frequenters, but other “art amateurs”. Imagine a world where we could connect all the art amateurs, or provide them with a way to hear the questions or thoughts of other people with the same layman’s view as them. **More specifically, imagine an app that would allow you to hear the voices of people like you: confused, thoughtful, curious voices.** This would open up a new world...
 
 **Simple questions:**
 
