@@ -38,14 +38,14 @@ These are not exagerrations. Art museums can be overwhelming, especially for peo
 
 ![Cherubs](/img/raphael_cherubs.jpg)  
 
-_Why does everyone insist on painting Cherubs?_ [Source](http://www.beliefnet.com/inspiration/angels/2008/09/angel-paintings.aspx)
+_My Reaction: Why does everyone insist on painting Cherubs?_ [Source](http://www.beliefnet.com/inspiration/angels/2008/09/angel-paintings.aspx)
 
 
 **_Boy With a Knapsack_ by Kazimir Malevich**
 
 ![boy](/img/boy_knapsack.jpeg)
 
-_I have yet to understand how this is a boy with a knapsack???_ [Source](https://theartstack.com/artist/kazimir-malevich-kazimir-sievierinovich-malievich/painterly-realism-of-a-boy-with-a-knapsack-masses-in-the-fourth-dimension)
+_My Reaction: I have yet to understand how this is a boy with a knapsack???_ [Source](https://theartstack.com/artist/kazimir-malevich-kazimir-sievierinovich-malievich/painterly-realism-of-a-boy-with-a-knapsack-masses-in-the-fourth-dimension)
 
 
 ## Where are the art amateurs?
