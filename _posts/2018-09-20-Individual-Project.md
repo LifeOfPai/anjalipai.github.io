@@ -40,7 +40,7 @@ _Why does everyone insist on painting Cherubs?_ [Source](http://www.beliefnet.co
 
 **_Boy With a Knapsack_ by Kazimir Malevich**
 
-![boy](/img/boy_knapsack.jpg)
+![boy](/img/boy_knapsack.jpeg)
 _I have yet to understand how this is a boy with a knapsack???_ [Source](https://theartstack.com/artist/kazimir-malevich-kazimir-sievierinovich-malievich/painterly-realism-of-a-boy-with-a-knapsack-masses-in-the-fourth-dimension)
 ## Where are the art amateurs?
 
