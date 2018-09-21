@@ -52,7 +52,7 @@ They're all around you. Although this would require further investigation, I hav
 # How can we help?
 Since it is difficult to understand how to help art amateurs appreciate art, we can instead consider the following question: **In what scenario do art amateurs actually enjoy an art museum?** One answer is when there’s a particular exhibit of interest: something they’ve encountered previously in their life, or heard of in other areas of their life that they are more interested in. An English major may have interest in seeing an exhibit based off of The Picture of Dorian Gray or Pride and Prejudice; a math major may be intrigued by an exhibit of DaVinci’s sketches. It is difficult, however for a museum to curate their exhibitions as to appeal to all of the potential art amateurs out there.
 
-# IDEA: Art As a Social Experience
+# _Idea_: Art As a Social Experience
 Another more interesting case is in social settings. For an art amateur, walking around an art museum on their own can be an isolating and frustrating experience. You don’t understand the art, you have questions, you feel like everyone around you is more of an art connoisseur than you are. You could ask other people about their thoughts on the art, but initiating that kind of interaction with strangers can be stressful and anxiety inducing. What most people really want in that kind of situation is to be surrounded by people like them: not art students or museum experts or art museum frequenters, but other “art amateurs”. Imagine a world where we could connect all the art amateurs, or provide them with a way to hear the questions or thoughts of other people with the same layman’s view as them. Simple questions like: 
 
 "_Why is there an angel in this picture?"
