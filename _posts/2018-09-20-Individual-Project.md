@@ -30,16 +30,23 @@ and:
 
 > "Museums are built to intimidate you. They are abnormally quiet, palatial and pristine, filled with guards and attendants who will only speak to you if you mess up. “Don’t touch the art,” is not a statement reserved for children. You might expect to blend in with an art world version of Xavier’s School for Gifted Youngsters, but you’ll probably feel a touch out of place."
 
-These are not exagerrations. Art museums can be overwhelming, especially for people who may not have the natural "art instinct". While this article does a good job of conveying the feeling of disoreintation that can come with walking around an art museum, articles such as these are part of a broader problem. Art experts or even art enthusiasts constantly try to "teach" art amateurs how to appreciate art. But constantly being told how to view art can make someone who already feels out of place, feel even less comfortable, **especially when they simply don't see art the same way as other people"
+These are not exagerrations. Art museums can be overwhelming, especially for people who may not have the natural "art instinct". While this article does a good job of conveying the feeling of disoreintation that can come with walking around an art museum, articles such as these are part of a broader problem. Art experts or even art enthusiasts constantly try to "teach" art amateurs how to appreciate art. But constantly being told how to view art can make someone who already feels out of place, feel even less comfortable, **especially when they simply don't see art the same way as other people"**
 
+**_Angels on Canvas_ by Raphael** 
+[Cherubs](/img/raphael_cherubs.jpg)  
+_Why does everyone insist on painting Cherubs?_
+
+**_Boy With a Knapsack_ by Kazimir Malevich**
+[boy](/img/boy_with_knapsack.jpg)
+_I have yet to understand how this is a boy with a knapsack???_
 ## Where are the art amateurs?
 
 They're all around you. Although this would require further investigation, I have no doubt that Williams College Campus is full of art amateurs. The people who rarely step foot in WCMA or the Clark unless they absolutely need to. Those who enter MassMoca and find themselves baffled by the shovel hanging from the ceiling. They exist, but not in art spaces. And it should be our goal to **make art space their spaces too**.
 
-
-
 # How can we help?
-Since it is difficult to understand how to help art amateurs appreciate art, we can instead consider the following question: In what scenario do art amateurs actually enjoy an art museum? One answer is when there’s a particular exhibit of interest: something they’ve encountered previously in their life, or heard of in other areas of their life that they are more interested in. An English major may have interest in seeing an exhibit based off of The Picture of Dorian Gray or Pride and Prejudice; a math major may be intrigued by an exhibit of DaVinci’s sketches. It is difficult, however for a museum to curate their exhibitions as to appeal to all of the potential art amateurs out there.
+Since it is difficult to understand how to help art amateurs appreciate art, we can instead consider the following question: **In what scenario do art amateurs actually enjoy an art museum?** One answer is when there’s a particular exhibit of interest: something they’ve encountered previously in their life, or heard of in other areas of their life that they are more interested in. An English major may have interest in seeing an exhibit based off of The Picture of Dorian Gray or Pride and Prejudice; a math major may be intrigued by an exhibit of DaVinci’s sketches. It is difficult, however for a museum to curate their exhibitions as to appeal to all of the potential art amateurs out there.
 
 ## Art As a Social Experience
 Another more interesting case is in social settings. For an art amateur, walking around an art museum on their own can be an isolating and frustrating experience. You don’t understand the art, you have questions, you feel like everyone around you is more of an art connoisseur than you are. You could ask other people about their thoughts on the art, but initiating that kind of interaction with strangers can be stressful and anxiety inducing. What most people really want in that kind of situation is to be surrounded by people like them: not art students or museum experts or art museum frequenters, but other “art amateurs”. Imagine a world where we could connect all the art amateurs, or provide them with a way to hear the questions or thoughts of other people with the same layman’s view as them. Simple questions like: Why is there an angel in this picture? Why this person's face so ugly? How do two boxes painted on a canvas represent a “boy with a knapsack”?. Basic observations like: this painting seems silly; the colors don’t work together. And, possibly more importantly, stories: “This painting reminds me of the time when…”; “The scene looks like....”; “This painting makes me feel…”. The goal is to help the art amateurs feel less alone in an environment they feel out of place in, and one of the best ways to do this is to create a community that they can carry in their pocket and access on the fly.
+
+[Cover Photo](http://www.skypeenglishclasses.com/starting-english-conversation/) 
