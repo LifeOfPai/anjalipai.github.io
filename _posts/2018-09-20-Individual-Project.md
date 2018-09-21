@@ -2,7 +2,7 @@
 layout: post
 title: The Real Voices of WCMA
 subtitle: Art Appreciation for the Art Amateur
-bigimg: /img/voices.png
+bigimg: /img/conversation.jpg
 ---
 
 # Meet the Art Amateurs...
