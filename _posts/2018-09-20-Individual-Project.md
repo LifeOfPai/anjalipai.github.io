@@ -41,7 +41,10 @@ _Why does everyone insist on painting Cherubs?_ [Source](http://www.beliefnet.co
 **_Boy With a Knapsack_ by Kazimir Malevich**
 
 ![boy](/img/boy_knapsack.jpeg)
+
 _I have yet to understand how this is a boy with a knapsack???_ [Source](https://theartstack.com/artist/kazimir-malevich-kazimir-sievierinovich-malievich/painterly-realism-of-a-boy-with-a-knapsack-masses-in-the-fourth-dimension)
+
+
 ## Where are the art amateurs?
 
 They're all around you. Although this would require further investigation, I have no doubt that Williams College Campus is full of art amateurs. The people who rarely step foot in WCMA or the Clark unless they absolutely need to. Those who enter MassMoca and find themselves baffled by the shovel hanging from the ceiling. They exist, but not in art spaces. And it should be our goal to **make art space their spaces too**.
