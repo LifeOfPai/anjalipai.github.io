@@ -50,7 +50,7 @@ _My Reaction: I have yet to understand how this is a boy with a knapsack???_ [So
 
 ## Where are the art amateurs?
 
-They're all around you. Although this would require further investigation, I have no doubt that Williams College Campus is full of art amateurs. The people who rarely step foot in WCMA or the Clark unless they absolutely need to. Those who enter MassMoca and find themselves baffled by the shovel hanging from the ceiling. They exist, but not in art spaces. And it should be our goal to **make art space their spaces too**.
+They're all around you. Although this would require further investigation, I have no doubt that Williams College Campus is full of art amateurs. The people who rarely step foot in WCMA or the Clark unless they absolutely need to. Those who enter MassMoca and find themselves baffled by the shovel hanging from the ceiling. They exist, but not in art spaces. And it should be our goal to **make art spaces, their spaces too**.
 
 ## How do we help?
 Since it is difficult to understand how to help art amateurs appreciate art, we can instead consider the following question: **In what scenario do art amateurs actually enjoy an art museum?** One answer is when there’s a particular exhibit of interest: something they’ve encountered previously in their life, or heard of in other areas of their life that they are more interested in. An English major may have interest in seeing an exhibit based off of The Picture of Dorian Gray or Pride and Prejudice; a math major may be intrigued by an exhibit of DaVinci’s sketches. It is difficult, however for a museum to curate their exhibitions as to appeal to all of the potential art amateurs out there.
