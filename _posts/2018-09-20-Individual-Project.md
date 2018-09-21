@@ -4,7 +4,7 @@ title: The Real Voices of WCMA
 subtitle: Art Appreciation for the Art Amateur
 ---
 
-# Meet the Art Amateurs
+                                     # Meet the Art Amateurs
 Not everyone “understands” art. Some people have difficulty spending even a few minutes in an art museum, nevertheless spending multiple hours. Certain people can stare at a work of art and ask a million questions: Who was the artist? Why did they paint this way? What does this painting mean? Other people feel like they may as well be staring at a blank canvas. 
 
 
