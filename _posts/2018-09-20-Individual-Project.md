@@ -1,7 +1,7 @@
 ---
 layout: post
-title: The Real Voices of WCMA
-subtitle: Art Appreciation for the Art Amateur
+title: Voices from the Shadows
+subtitle: Building Community for the Art Amateur
 bigimg: /img/conversation.jpg
 ---
 # Meet the Art Amateurs...
