@@ -72,11 +72,13 @@ We later toned the colors down to make the contrasts less jarring. This fits wit
 
 Providing the user with a simple mental model is the key to effective design. We discovered in one of our usability tests, that the relationship between the web-app component of our design, and the interactive display component, was entirely unclear to the user. The added complexity of having two components did not fit into the simple mental model the user had. This is not to say that complexity is bad; just that **when there are complex relationships between components, those relationships must be clear to the user.** In the case of the inability to connect the web app to the board, we added a button that displayed a map of the gallery, which would direct users to the nearest interactive display. 
 
-![Imgur](https://i.imgur.com/HYT4vqj.jpg)
+![Imgur](https://i.imgur.com/5E1rKiH.png)
+
+![Imgur](https://i.imgur.com/NDJGRh7.png)
 
 Similarly, many of the features we added to the interactive display design involved simplifying the amount of cognition required on the part of the user. We added a finger icon to indicate that the user was meant to tap the screen, once again employing familiar icons that the user could easily incorporate into their mental model. Additionally we found that arrows were a good way of indicating "scrolling" or "swiping" capabilities.
 
-![Imgur](https://i.imgur.com/sJaTpPN.jpg)
+![Imgur](https://imgur.com/zkX3U8r.png)
 
 In future design project, I now know to err on the side of simplicity. While supporting a complex number and variety of tasks and features is always desirable, it is only valuable insofar as those features are clearly presented and easy to use. Simplicity is not necessarily about the _number_ of features a design whether the relationships between those features are _clear to the user_. Ultimately a simple design is one that requires little thought and effort to use and fits the simple mental model that the user is inclined to create.
 
