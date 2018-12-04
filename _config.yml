@@ -25,6 +25,7 @@ description: Course work for CSCI 376 with Iris Howley!
 navbar-links:
   About Me: "aboutme"
   Group Project: "https://williamdowns.github.io/amarteurs/"
+  Design Manifesto: "individualmanifesto"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
