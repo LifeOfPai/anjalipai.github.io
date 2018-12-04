@@ -21,7 +21,7 @@ This means that when an issue is discovered that poses ethical concerns (for exa
 **Do not cause harm**
 
 This one is relatively self-explanatory. In fact, it comes straight out of the ACM Code of Ethics and Professional Conduct. ACM defines **harm** as: 
->"negative consequences, especially when those consequences are significant and unjust. Examples of harm include unjustified physical or mental injury, unjustified destruction or disclosure of information, and unjustified damage to property, reputation, and the environment" [(ACM)] (https://ethics.acm.org/). 
+>"negative consequences, especially when those consequences are significant and unjust. Examples of harm include unjustified physical or mental injury, unjustified destruction or disclosure of information, and unjustified damage to property, reputation, and the environment" [(ACM)](https://ethics.acm.org/) 
 
 Designers should ensure that any features of their product are safe from manipulation or use in a way that poses harm to others. In some case this may require removing features that could be used for harm or redesigning them such that they cannnot be misused. As the ACM argues, even "When that harm is unintended, those responsible are obliged to undo or mitigate the harm as much as possible". Mitigating harm involves not only addressing sources of harm as they arise, but pre-emptively addressing potential causes of harm.
 
