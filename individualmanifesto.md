@@ -36,6 +36,7 @@ A key takeaway regarding accessibility is that ensuring that products are access
 Although we did not have the opportunity to consider accessibility in every stage of the design process, once we were aware of the ways that technology can be made accessible, we began to employ that in our process. For example, when building our digital prototype we added additional information blurbs and a help page to ensure that at every page, the next step or outcome of an action was clear. This is based on principles designing for users with anxiety, wherein it is importnat to make information and steps in a process clear to avoid undue anxiety or stress (Pun. 2016). 
 
 **Note the submit button is clear, defined and labeled as is the change response button. The outcomes of each button are also clearly presented**
+
 ![Imgur](https://i.imgur.com/Y9WM6Gj.png)
 
 Similarly, we used simple colors instead of bright contrasting colors, and made our buttons clear and labeled, techniques that increase accessibility for users with autism.
@@ -84,6 +85,7 @@ In future design project, I now know to err on the side of simplicity. While sup
 The iterative design process was critical to achieving a final product that served our primary tasks in a clean and effective way. Our initial designs were highly “comment”-driven. We believed our primary task to be allowing users to share comments, and thus we had designed a product that was very similar to a discussion forum. It was only when we relinquinquished the idea of a comment-driven design, that we were able to consider other possibilities. This it was not till the second iteration that we began to consider using _emotion_ as the focal point of our design instead of comments. 
 
 **Our original design sketch focused on leaving comments and recieving validation as our primary tasks**
+
 ![Imgur](https://i.imgur.com/iiQOCze.jpg)
 
 ![Imgur](https://i.imgur.com/khh1mwI.jpg)
@@ -98,3 +100,7 @@ The iterative design process was critical to achieving a final product that serv
 Without the iterative design process, we may have simply moved forth with our original design, which may not have been the most effect wayy of achieving our goal of enabling a sense of "social belonging". The second iteration of our design (which eventually became the final iteration) relied heavily on the theory that social belonging is emotion-based  [(Link)](https://www.psychologyinaction.org/psychology-in-action-1/2015/09/24/the-power-of-social-belonging). 
 
 The biggest takeaway from this process of rapid iteration is that **more iterations are always better.** Our design could undoubtedly have benefitted from more contextual inquiries, more usability tests and more prototype walkthroughs, especially given how much useful information we gleaned about our uears and our design in each one of these stages. As a designer moving forward, I am inclined to prefer more iterations and more user-based tests at every stage. A larger sample of users can only benefit the improvement of the design. At the end of the day, two users can not, and should not, speak for an entire population of users. The first design is not the best design because regardless of how good a design is, **it can almost always be better.**
+
+## Conclusion 
+
+Although I do not envision needing to undertake the entire UX Design Research process in future work, these five takeaways that I have listed in my manifesto are highly applicable to any research process. I like to view HCI less as a procedure and more as simply "design thinking". What is most critical in developing and effective design is considering the choices you make as you make them, and being conscious of the impacts of those choices on all the people whocould potentially be affected. If one is constantly thinking about issues of ethics, accessibility, usability and simplicity, they are far more likely to produce a thoughtful, easy-to-use and understand product. This has critical applications even in the professional world. As I have learned while applying to graduate school, many academics have personal websites that are difficult to navigate and not clearly laid out. Thus even academics in a field completely unrelated in computer science may benefit from thinking like a designer, and I have no doubt that I too will benefit from this practice down the line.
