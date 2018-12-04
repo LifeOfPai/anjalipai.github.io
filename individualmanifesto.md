@@ -17,7 +17,10 @@ This means that when an issue is discovered that poses ethical concerns (for exa
 
 **Do not cause harm**
 
-This one is relatively self-explanatory. Designers should ensure that any features of their product are same from manipulation or use in a way that poses harm to others. This harm can be physical, emotional, or mental.
+This one is relatively self-explanatory. In fact, it comes straight out of the ACM Code of Ethics and Professional Conduct. ACM defines **harm** as: 
+>"negative consequences, especially when those consequences are significant and unjust. Examples of harm include unjustified physical or mental injury, unjustified destruction or disclosure of information, and unjustified damage to property, reputation, and the environment". 
+
+Designers should ensure that any features of their product are safe from manipulation or use in a way that poses harm to others. In some case this may require removing features that could be used for harm or redesigning them such that they cannnot be misused. As the ACM argues, even "When that harm is unintended, those responsible are obliged to undo or mitigate the harm as much as possible". Mitigating harm involves not only addressing sources of harm as they arise, but pre-emptively addressing potential causes of harm.
 
 **Protection of Information is critical**
 
@@ -27,7 +30,7 @@ Users of a product should be confident that the information they are providing i
 
 A key takeaway regarding accessibility is that ensuring that products are accessible is not necessarily about catering to disabled users, but about designing for the benefit of all users. The “curb-cut effect” as it is often called, pushes designers to “solve for one, extend to the many”. As such, accessibility should be a consideration in every stage of the design process. In my own work, I would be inclined to take the approach of the POUR methodology where in each stage of the design phase, we consider whether the content we are adding or designing is: perceivable, operable, understandable, and robust. I find these categories to be valuable because they encompass visual components, physical or interactive components, cognitive processing, and robustness. If a designer were to consider these four elements at each stage of the process, they would likely uncover potential barriers to accessibility prior to even adding a feature. Therefore, issues of accessibility can be addressed during the design process when there is a lower barrier to making modifications, rather than after the fact when barriers to adding or revamping features may be higher. 
 
-Although we did not have the opportunity to consider accessibility in every stage of the design process, once we were aware of the ways that technology can be made accessible, we began to employ that in our process. For example, with our digital prototype, we carefully considered the color palette. [Add photo + description].
+Although we did not have the opportunity to consider accessibility in every stage of the design process, once we were aware of the ways that technology can be made accessible, we began to employ that in our process. For example, with our digital prototype, we carefully considered the color palette.
 
 ## The designer is not the user
 
@@ -35,7 +38,7 @@ This was probably the biggest takeaway from our design process. I began this pro
 
 Throughout our research process, the fact that the designer is not the user was reinforced. During our usability tests, we discovered that features we believed to be self-explanatory were not at all obvious to our users. In retrospect this is very reasonable: as designers of our product our mental models matched our expectations of how the design would be used. The users were not, however, guaranteed to share our same mental models, which is why the burden fell on us to ensure that the design matched the user’s mental model.
 
-Understanding that I am not the user was a critical step toward being willing to make changes to our design that were contradictory to our original vision. This realization has also underscored the importance of design research. It would be easy enough to design a product that I **believe** would serve the user’s needs, but this process has taught me that what I **believe** the user needs may be entirely different than what the user actually needs. 
+Understanding that I am not the user was a critical step toward being willing to make changes to our design that were contradictory to our original vision. This realization has also underscored the importance of design research. It would be easy enough to design a product that I **believe** would serve the user’s needs, but this process has taught me that **what I believe the user needs may be entirely different than what the user actually needs.** 
 
 This also brings up the concern of identifying your user. In line with the concerns about ethics, it is equally important to understand not only how your product will affect the targeted users, but how it affects non-users. This is an understanding that must also be developed through the design process, since insofar as we are not the “user” we are also not the “non-user”.
 
